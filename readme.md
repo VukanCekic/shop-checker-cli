@@ -36,4 +36,4 @@ from the root of the project with the env activated run cli.py show, simple as t
 Key Features:
 - OOP architecture utilized
 - singleton pattern was implemented to simulate a connection with the database
--pip packages for CLI command annotations and custom table
+- pip packages for CLI command annotations and custom table
