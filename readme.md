@@ -33,5 +33,7 @@ Have XAMP or WAMP running, to startup MYSQL and establish a connection
 from the root of the project with the env activated run cli.py show, simple as that ;)
 
 # About the App
-OOP architecture utilized, singleton pattern implemented to simulate a connection with the database,
-pip packages for CLI command annotations and custom table with custom colored messages
+Key Features:
+- OOP architecture utilized
+- singleton pattern was implemented to simulate a connection with the database
+-pip packages for CLI command annotations and custom table
